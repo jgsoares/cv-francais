@@ -82,7 +82,7 @@ J'ai de l'expérience en design graphique, ayant commencé alors que j'étais en
 
 >Créer d’identité visuelle, développer et gérer la marque, concevoir Responsive Webdesign et présenter des idées et des concepts aux clients.
 
-**Graphiste** - Metta Comunicação - Janvier 1996 - Mars 2014
+**Directeur Créatif** - Metta Comunicação - Janvier 1996 - Mars 2014
 
 > Créer logos, publications (magazines, journaux et livres), annonces imprimées, des affiches, panneaux, bannières de sites Internet, de signes, etc. Préparer des fichiers pour l’impression, présenter des idées et des concepts aux clients et organiser, lancer et de diriger des sessions de brainstorming;
 
