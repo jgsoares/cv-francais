@@ -1,12 +1,6 @@
-# João Soares
-
-**Ville:** Montréal, QC
-
-**Site web:** [www.joaosoares.ca](www.joaosoares.ca)
-
-**Courriel:** contact@joaosoares.ca
-
-**Github:** jgsoares
+João Soares
+============
+Montréal, QC    |     contact@joaosoares.ca       |     438 889-4440
 
 ## À Propos de moi
 J'ai de l'expérience en design graphique, ayant commencé alors que j'étais encore étudiant de premier cycle. Pendant ce temps, j'ai développé une excellente maîtrise dans Adobe Creative Suite (InDesign, Photoshop, Illustrator, XD, After Effects, entre autres), à la fois sous Windows et Mac O.S. De plus, j'ai développé et exécuté des projets en matière d'impression, de conception éditoriale, de publicité et web. De plus, mes connaissances dans le domaine du prépresse et du flux de production graphique sont importantes en raison de mon expérience professionnelle.
