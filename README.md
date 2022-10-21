@@ -74,28 +74,29 @@ Designer de formation, compétent sur le plan technique et axé sur le client, a
 `Photoshop` `InDesign` `Illustrator`
 
 
-**Professeur** - Faculté des Sciences Sociales - Janvier 2010 - Décembre 2014
+### Professeur, [Unisba](https://unisba.edu.br/) (Janvier 2010 - Décembre 2014)
 
 * Enseigner des matières de niveau universitaire aux étudiants de premier cycle
 (Direction Artistique I et II, Atelier à la Direction Artistique et Atelier Illustrator et Photoshop) et guider les élèves sur les lignes directrices de monographie pour l’achèvement du cours.
 
-**Consultant** - Prefeitura Municipal de Amargosa - Janvier 2010 - Décembre 2012
+### Consultant, [Prefeitura Municipal de Amargosa](http://amargosa.ba.gov.br/) (Janvier 2010 - Décembre 2012)
 
-> Établir et orienter la conception et le développement de l’identité visuelle, la création de pièces de divulgation de publicité ainsi que la conception graphique de journaux et magazines.
+* Établir et orienter la conception et le développement de l’identité visuelle, la création de pièces de divulgation de publicité ainsi que la conception graphique de journaux et magazines.
 
 
-**Professeur** - Centro Universitário Estácio de Sá - March 2012 - July 2012
+### Professeur, [Centro Universitário Estácio de Sá](https://portal.estacio.br/unidades/centro-universit%C3%A1rio-est%C3%A1cio-da-bahia/) (Mars 2012 - Juillet 2012)
 
->Cours dispensé à un cours de spécialisation en gestion stratégique, marketing et vente: gestion de la marque.
+* Cours dispensé à un cours de spécialisation en gestion stratégique, marketing et vente: gestion de la marque.
 
+### Professeur, [Unisba](https://www.unifacs.br/) (Janvier 2010 - Décembre 2014)
 **Professeur** - Universidade Salvador - February 2004 - July 2008
 
->Cours enseigné aux étudiants de premier cycle: Laboratoire d'édition numérique (Adobe Creative Suite). Préparer, gérer et noter les examens, les travaux et les rapports.
+* Cours enseigné aux étudiants de premier cycle: Laboratoire d'édition numérique (Adobe Creative Suite). Préparer, gérer et noter les examens, les travaux et les rapports.
 
 
-**Professeur** - Faculdade Hélio Rocha - February 2004 - July 2008
+### Professeur, [Faculdade Hélio Rocha]() (Février 2004 - Juillet 2008)
 
-> Cours enseignés aux étudiants de premier cycle: Édition, Création et laboratoire numérique (Adobe Creative Suite). Préparer, gérer et noter les examens, les travaux et les rapports. Tutorat des étudiants à la fin du cours.
+* Cours enseignés aux étudiants de premier cycle: Édition, Création et laboratoire numérique (Adobe Creative Suite). Préparer, gérer et noter les examens, les travaux et les rapports. Tutorat des étudiants à la fin du cours.
 
 
 
