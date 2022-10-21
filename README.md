@@ -1,6 +1,7 @@
 # João Soares
 Montréal, QC    |     contact@joaosoares.ca       |     438 889-4440
-[LinkedIn]([https://linkedin.com/in/jonurry](https://www.linkedin.com/in/joaogsoares/)) | [GitHub](https://github.com/jgsoares)
+
+[LinkedIn](https://www.linkedin.com/in/joaogsoares/) | [GitHub](https://github.com/jgsoares)
 
 Designer de formation, compétent sur le plan technique et axé sur le client, avec plus de 20 ans d'expérience en conception graphique et en direction d'équipe, et 3 ans d'expérience en développement web. J'aime diriger ou être orienté par l'exemple. J'utilise des compétences en matière d'analyse et de résolution de problèmes pour proposer des solutions viables et compétitives. Animé par la passion de créer des solutions de qualité, d'apprendre de nouvelles technologies, de partager des connaissances, de me remettre en question et de m'améliorer chaque jour.
 
