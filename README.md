@@ -45,7 +45,8 @@ Designer de formation, compétent sur le plan technique et axé sur le client, a
 
 ### Intégrateur Web, [Uniformode | Multi B](https://uniformode.ca/) (Octobre 2018 - Août 2019)
 
-* Conduite des réunions hebdomadaires avec les équipes de développement et de conception pour organiser et répartir les tâches, Conception et mise en œuvre du commerce électronique de l’entreprise, en utilisant CMS/Prestashop.
+* Conduite des réunions hebdomadaires avec les équipes de développement et de conception pour organiser et répartir les tâches.
+* Conception et mise en œuvre du commerce électronique de l’entreprise, en utilisant CMS/Prestashop.
 * Création et mise en œuvre du système multiboutique, qui a permis d’offrir des forfaits de vente en ligne à d’autres petites entreprises.
 * Mise en œuvre et entretien des sites web des entreprises associées.
 * Intégration des catalogues de produits des fournisseurs dans le portail, ce qui permet d’élargir les offres d’approvisionnement et d’augmenter les ventes.
@@ -54,9 +55,9 @@ Designer de formation, compétent sur le plan technique et axé sur le client, a
 
 ### Graphiste, [Gema Estúdio de Ideias]() (Mars 2013 - Février 2014)
 
-* Création d’identité visuelle
+* Création de l’identité visuelle
 * Conception et gestion de marque
-* concevoir Responsive Webdesign
+* Conception des sites web adaptatifs
 * Présentation des idées et des concepts aux clients.
 
 `Adobe XD` `Photoshop` `InDesign` `Illustrator`
