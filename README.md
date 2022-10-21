@@ -26,7 +26,7 @@ Designer de formation, compétent sur le plan technique et axé sur le client, a
 
 ## Expériences professionnelles
 
-### Développeur Web Frontend, [Institut Supérieur d'Informatique]([https://tray.io](https://isi-mtl.com/) (Août 2019 - Présent)
+### Développeur Web Frontend, [Institut Supérieur d'Informatique](https://isi-mtl.com/) (Août 2019 - Présent)
 
 * Proposição e desenvolvimento de uma aplicação web de geração automática de CV, economizando tempo para a equipe de Placement e facilitando a vida para estudantes.
 * Proposição e desenvolvimento de um portal de estágios, permitindo que estudantes possam postular, bem como empresas parceiras de cadastrar suas vagas de estágios.
@@ -42,7 +42,7 @@ Designer de formation, compétent sur le plan technique et axé sur le client, a
 
 `Wordpress` `React` `Javascript` `Express` `Node.js` `MySql` `Apex` `CRM/Salesforce` `Html` `Css` `Photoshop` `InDesign` `Illustrator` `Audition` `Adobe Premire`
 
-### Intégrateur Web, [Uniformode | Multi B]([https://uniformode.ca/) (Octobre 2018 - Août 2019)
+### Intégrateur Web, [Uniformode | Multi B](https://uniformode.ca/) (Octobre 2018 - Août 2019)
 
 * Realização de reuniões semanais para organizar e distribuir tarefas com as equipes de desenvolvimento e design.
 * Desenvolvimento e implantação do e-commerce da empresa, utilizando o CMS/Prestashop.
@@ -50,19 +50,33 @@ Designer de formation, compétent sur le plan technique et axé sur le client, a
 * Implementação e manutenção dos websites das empresas associadas.
 * Incorporação no portal dos catálogos de produtos dos fornecedores, ampliando as ofertas do inventário e possibilitando um aumento de vendas.
 
-`Prestashop`` `Javascript` `Html` `Css` `Photoshop` `InDesign` `Illustrator`
+`Prestashop` `Javascript` `Html` `Css` `Photoshop` `InDesign` `Illustrator`
 
-**Graphiste** - Gema Estúdio de Ideias - Mars 2013 - Février 2014
+### Graphiste, [Gema Estúdio de Ideias]() (Mars 2013 - Février 2014)
 
->Créer d’identité visuelle, développer et gérer la marque, concevoir Responsive Webdesign et présenter des idées et des concepts aux clients.
+* Création d’identité visuelle
+* Conception et gestion de marque
+* concevoir Responsive Webdesign
+* Présentation des idées et des concepts aux clients.
 
-**Directeur Créatif** - Metta Comunicação - Janvier 1996 - Mars 2014
+`Adome XD` `Photoshop` `InDesign` `Illustrator`
 
-> Créer logos, publications (magazines, journaux et livres), annonces imprimées, des affiches, panneaux, bannières de sites Internet, de signes, etc. Préparer des fichiers pour l’impression, présenter des idées et des concepts aux clients et organiser, lancer et de diriger des sessions de brainstorming;
+### Directeur Créatif, [Metta Comunicação]() (Janvier 1996 - Mars 2014)
+
+* Conception du projet éditorial « Enem » pour le journal Correio (l’un des plus grands journaux en circulation dans la région nord-est du Brésil), qui a permis une augmentation de 30 % de la circulation les jours où le cahier a été publié.
+* Création de centaines de projets éditoriaux pour des clients de différents secteurs.
+* Conception de logos et de pièces graphiques uniques pour plus de 15 clients dans les médias traditionnels et le web.
+* Superviser et s’assurer que les membres de l’équipe accomplissent leurs tâches de manière opportune et organisée.
+* Conduite des réunions hebdomadaires pour organiser, distribuer les tâches et diriger des séances de remue-méninges.
+* Gestion d’une équipe de cinq graphistes pour donner de la rétroaction et gérer les conflits interpersonnels.
+* Présentation des idées et des concepts aux clients et entretien des relations positives avec les fournisseurs.
+ 
+`Photoshop` `InDesign` `Illustrator`
+
 
 **Professeur** - Faculté des Sciences Sociales - Janvier 2010 - Décembre 2014
 
->  Enseigner des matières de niveau universitaire aux étudiants de premier cycle
+* Enseigner des matières de niveau universitaire aux étudiants de premier cycle
 (Direction Artistique I et II, Atelier à la Direction Artistique et Atelier Illustrator et Photoshop) et guider les élèves sur les lignes directrices de monographie pour l’achèvement du cours.
 
 **Consultant** - Prefeitura Municipal de Amargosa - Janvier 2010 - Décembre 2012
