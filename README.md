@@ -27,17 +27,17 @@ Designer de formation, compétent sur le plan technique et axé sur le client, a
 
 ## Expériences professionnelles
 
-### Développeur Web Frontend, [Institut Supérieur d'Informatique](https://isi-mtl.com/) (Août 2019 - Présent)
+### Développeur Web Frontend, [Institut Supérieur d’Informatique](https://isi-mtl.com/) (Août 2019 - Présent)
 
-* Proposition et conception d’une application web pour la génération automatique de CV, permettant de faire gagner du temps à l’équipe de placement et de faciliter la vie des étudiants.
+* Proposition et conception d’une application web pour la génération automatique de CV, en permettant de faire gagner du temps à l’équipe de placement et de faciliter la vie des étudiants.
 * Proposition et conception d’un portail de stages, en permettant aux étudiants de publier leurs résumés et aux entreprises partenaires d’enregistrer leurs offres de stages.
-* Mise en œuvre de nouveaux flux de travail et processus personnalisés dans CRM/Salesforce, en permettant à l’équipe des admissions de gagner du temps.
-* Création d’une série de courriels marketing pour promouvoir et faire connaître notre institution, utilisés dans des campagnes Salesforce/Pardot.
-* Insertion et extraction de leads dans Salesforce, permettant un ciblage correct des audiences dans les campagnes marketing.
-* Mise en place de catalogues et de formulaires interactifs, permettant des requêtes plus détaillées et réduisant le temps passé par les clients.
-* Création et mise en œuvre du nouveau site web, qui a permis d’augmenter les statistiques de consultation de 85 %.
+* Mise en œuvre de nouveaux flux de travail et processus personnalisés dans CRM/Salesforce, en permettant à l’équipe d’admissions de gagner du temps.
+* Création d’une série de courriels marketing utilisés dans des campagnes Salesforce pour promouvoir et faire connaître notre institution.
+* Insertion et extraction de leads dans Salesforce, en permettant un ciblage correct des audiences dans les campagnes marketing.
+* Mise en place de catalogues et de formulaires interactifs, en permettant des requêtes plus détaillées et réduisant le temps passé par les clients.
+* Création et mise en œuvre du nouveau site web, qui a augmenté les statistiques de consultation de 85 %.
 * Proposition et mise à jour du logo institutionnel et création d’un manuel d’utilisation de la marque.
-* Rédaction de dizaines de vidéos éducatives et de procédures internes concernant la Covid-19.
+* Création de dizaines de vidéos éducatives et de procédures internes concernant la Covid-19.
 * Proposition et conception d’un logo commémoratif du vingt-cinquième anniversaire de l’institution, qui sera utilisé conjointement dans les documents graphiques et sur le site web au cours de l’année 2022.
 * Conception du projet de signalisation du collège, en permettant des gains de temps dans la mise en œuvre et d’argent.
 
