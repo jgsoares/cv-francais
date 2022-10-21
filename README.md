@@ -64,10 +64,10 @@ Designer de formation, compétent sur le plan technique et axé sur le client, a
 
 ### Directeur Créatif, [Metta Comunicação]() (Janvier 1996 - Mars 2014)
 
-* Conception du projet éditorial « Enem » pour le journal Correio (l’un des plus grands journaux en circulation dans la région nord-est du Brésil), qui a permis une augmentation de 30 % de la circulation les jours où le cahier a été publié.
+* Conception du projet éditorial «Enem» pour le journal Correio (l’un des plus grands journaux en circulation dans la région nord-est du Brésil), qui a permis une augmentation de 30 % de la circulation les jours où le cahier a été publié.
 * Création de centaines de projets éditoriaux pour des clients de différents secteurs.
 * Conception de logos et de pièces graphiques uniques pour plus de 15 clients dans les médias traditionnels et le web.
-* Superviser et s’assurer que les membres de l’équipe accomplissent leurs tâches de manière opportune et organisée.
+* Supervision pour que les membres de l’équipe accomplissent leurs tâches de manière opportune et organisée.
 * Conduite des réunions hebdomadaires pour organiser, distribuer les tâches et diriger des séances de remue-méninges.
 * Gestion d’une équipe de cinq graphistes pour donner de la rétroaction et gérer les conflits interpersonnels.
 * Présentation des idées et des concepts aux clients et entretien des relations positives avec les fournisseurs.
