@@ -59,7 +59,7 @@ Designer de formation, compétent sur le plan technique et axé sur le client, a
 * concevoir Responsive Webdesign
 * Présentation des idées et des concepts aux clients.
 
-`Adome XD` `Photoshop` `InDesign` `Illustrator`
+`Adobe XD` `Photoshop` `InDesign` `Illustrator`
 
 ### Directeur Créatif, [Metta Comunicação]() (Janvier 1996 - Mars 2014)
 
