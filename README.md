@@ -29,27 +29,26 @@ Designer de formation, compétent sur le plan technique et axé sur le client, a
 
 ### Développeur Web Frontend, [Institut Supérieur d'Informatique](https://isi-mtl.com/) (Août 2019 - Présent)
 
-* Proposição e desenvolvimento de uma aplicação web de geração automática de CV, economizando tempo para a equipe de Placement e facilitando a vida para estudantes.
-* Proposição e desenvolvimento de um portal de estágios, permitindo que estudantes possam postular, bem como empresas parceiras de cadastrar suas vagas de estágios.
-* Implementação de novos fluxos de trabalho e processos personalizados no CRM/Salesforce, economozando tempo para a equipe de Admissão.
-* Criação de uma série de emails marketing de promoção e divulgação de nossa instituição, usados em campanhas no Salesforce/Pardot.
-* Inserção e extração de 'leads' no Salesforce, permitindo um correto direcionamento do público alvo nas campanhas de marketing..
-* Implementação de catálogos e formularários interativos, permitindo consultas mais detalhadas e reduzindo o tempo de preenchimento dos clientes.
-* Desenvolvimento e implementção do novo website, o que expandiu as estatísticas de visualização em 85%.
-* Proposição e atualização do logo institucional e a criação de um manual de utilização de marca.
-* Edição de dezenas de vídeos educativos e procedimentos internos relativos a pandemia da Covid-19.
-* Proposição e desensolvimento de logo comemorativa de 25 anos, para utilização conjunta em materiais gráficos e website durante o ano de 2022.
-* Concepção do projeto de sinalização do colégio, permitindo a economia de tempo na implementação e dinheiro.
+* Proposition et conception d’une application web pour la génération automatique de CV, permettant de faire gagner du temps à l’équipe de placement et de faciliter la vie des étudiants.
+* Proposition et conception d’un portail de stages, en permettant aux étudiants de publier leurs résumés et aux entreprises partenaires d’enregistrer leurs offres de stages.
+* Mise en œuvre de nouveaux flux de travail et processus personnalisés dans CRM/Salesforce, en permettant à l’équipe des admissions de gagner du temps.
+* Création d’une série de courriels marketing pour promouvoir et faire connaître notre institution, utilisés dans des campagnes Salesforce/Pardot.
+* Insertion et extraction de leads dans Salesforce, permettant un ciblage correct des audiences dans les campagnes marketing.
+* Mise en place de catalogues et de formulaires interactifs, permettant des requêtes plus détaillées et réduisant le temps passé par les clients.
+* Création et mise en œuvre du nouveau site web, qui a permis d’augmenter les statistiques de consultation de 85 %.
+* Proposition et mise à jour du logo institutionnel et création d’un manuel d’utilisation de la marque.
+* Rédaction de dizaines de vidéos éducatives et de procédures internes concernant la Covid-19.
+* Proposition et conception d’un logo commémoratif du vingt-cinquième anniversaire de l’institution, qui sera utilisé conjointement dans les documents graphiques et sur le site web au cours de l’année 2022.
+* Conception du projet de signalisation du collège, en permettant des gains de temps dans la mise en œuvre et d’argent.
 
 `Wordpress` `React` `Javascript` `Express` `Node.js` `MySql` `Apex` `CRM/Salesforce` `Html` `Css` `Photoshop` `InDesign` `Illustrator` `Audition` `Adobe Premire`
 
 ### Intégrateur Web, [Uniformode | Multi B](https://uniformode.ca/) (Octobre 2018 - Août 2019)
 
-* Realização de reuniões semanais para organizar e distribuir tarefas com as equipes de desenvolvimento e design.
-* Desenvolvimento e implantação do e-commerce da empresa, utilizando o CMS/Prestashop.
-* Desenvolvimento e implantação do sitema de multi-boutique, o que permitiu oferecer pacotes de venda online para outras empresas de menor porte.
-* Implementação e manutenção dos websites das empresas associadas.
-* Incorporação no portal dos catálogos de produtos dos fornecedores, ampliando as ofertas do inventário e possibilitando um aumento de vendas.
+* Conduite des réunions hebdomadaires avec les équipes de développement et de conception pour organiser et répartir les tâches, Conception et mise en œuvre du commerce électronique de l’entreprise, en utilisant CMS/Prestashop.
+* Création et mise en œuvre du système multiboutique, qui a permis d’offrir des forfaits de vente en ligne à d’autres petites entreprises.
+* Mise en œuvre et entretien des sites web des entreprises associées.
+* Intégration des catalogues de produits des fournisseurs dans le portail, ce qui permet d’élargir les offres d’approvisionnement et d’augmenter les ventes.
 
 `Prestashop` `Javascript` `Html` `Css` `Photoshop` `InDesign` `Illustrator`
 
