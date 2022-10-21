@@ -123,7 +123,5 @@ Designer de formation, compétent sur le plan technique et axé sur le client, a
 
 * Summer Language Program (Explore) - 2018
 * Starting a Business - 2015
-* Objective Integration - 2015
-* Francisation - 2015
 * Production de eBooks avec InDesign CS6 - 2013
 * Interaction South America (UX/UI) - 2013
